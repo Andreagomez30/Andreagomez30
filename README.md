@@ -1,4 +1,4 @@
-# Hola, soy Andrea Gomez 👋
+# Hola, soy Yennyfer Andrea Gómez Hoyos 👋
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -7,6 +7,14 @@
 
 ## ☁️ Cloud & AWS Solutions Architect
 Soy una profesional enfocada en la infraestructura escalable, automatización y seguridad en la nube. En este perfil documento mi ruta de aprendizaje y la implementación de soluciones reales en **AWS**, desde la gobernanza inicial hasta la orquestación de microservicios.
+Cuento con 10 años de experiencia técnica en entornos industriales. Me destaco por un **pensamiento estructurado y analítico** aplicado al diseño de soluciones escalables, seguras y eficientes.
+
+## 🛠️ Tecnologías y Herramientas Clave
+Infraestructura & DevOps: VPC, Route 53, Docker, Terraform, SCP, GitHub Actions (CI/CD) e Infrastructure as Code.
+
+Cloud Architecture: AWS Lambda, Amazon S3, Amazon RDS, IAM y sistemas Event-Driven.
+
+Diseño Técnico: Modelado de soluciones en Cloudcraft, Draw.io y Eraser.io bajo el AWS Well-Architected Framework.
 
 ---
 
@@ -22,6 +30,7 @@ Soy una profesional enfocada en la infraestructura escalable, automatización y 
 
 #### 🐳 Contenedores y DevOps
 * **Orquestación:** Gestión de clústeres productivos en **Amazon EKS (Kubernetes)**.
+* **Infraestructura como Código:** Automatización y aprovisionamiento de recursos mediante **Terraform** y **AWS CloudFormation**.
 * **CI/CD:** Pipelines de despliegue continuo con **GitHub Actions**.
 
 #### 🔐 Seguridad, Gobernanza y FinOps
@@ -32,7 +41,7 @@ Soy una profesional enfocada en la infraestructura escalable, automatización y 
 
 ### 🛠️ Herramientas y Skills
 - **Cloud:** AWS (VPC, S3, IAM, Lambda, DynamoDB, EKS, CloudWatch).
-- **Herramientas:** Docker, Git, GitHub Actions, CloudFormation, CDK.
+- **Herramientas:** Docker, Git, GitHub Actions, CloudFormation, terraform, CDK.
 - **Background:** Especialista en Electrónica y Tecnología de la Información.
 
 ---
