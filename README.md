@@ -5,7 +5,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![IaC](https://img.shields.io/badge/IaC-CloudFormation%20|%20CDK-blue?style=for-the-badge&logo=amazonaws)
 
-## ☁️ Cloud & AWS Solutions Architect en formación
+## ☁️ Cloud & AWS Solutions Architect
 Soy una profesional enfocada en la infraestructura escalable, automatización y seguridad en la nube. En este perfil documento mi ruta de aprendizaje y la implementación de soluciones reales en **AWS**, desde la gobernanza inicial hasta la orquestación de microservicios.
 
 ---
